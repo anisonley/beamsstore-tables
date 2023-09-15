@@ -6,7 +6,9 @@ h1{
 }
 
 table{
-  max-width: 12750;
+  margin: 25px 0;
+  font-size: 16px;
+  min-width: 400px;
 }
 
 th{
