@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "beamsstore-tables",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
